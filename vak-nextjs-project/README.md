@@ -1,4 +1,4 @@
-# VAK Food & Beverage Company — Corporate Website
+# VAK Food Company — Corporate Website
 
 Premium editorial redesign built with Next.js 14 (App Router), TypeScript, and Tailwind CSS.
 
@@ -46,7 +46,7 @@ consistently.
 
 ## Content
 
-All copy is sourced from the VAK Food & Beverage corporate portfolio. Placeholder KPI values
+All copy is sourced from the VAK Food corporate portfolio. Placeholder KPI values
 (revenue growth, monthly orders, customer satisfaction) are intentionally left as "—" pending
 real data — update them in `components/Operations.tsx` once available.
 

@@ -69,7 +69,7 @@ export default function About() {
               </p>
               <div className="relative flex items-center gap-4 text-[13px] text-paper/60">
                 <span className="w-8 h-px bg-brass" />
-                Corporate Governance, VAK Food &amp; Beverage Company
+                Corporate Governance, VAK Food Company
               </div>
             </div>
           </div>
@@ -80,7 +80,7 @@ export default function About() {
           <div className="bg-panel p-10 md:p-12">
             <Eyebrow tone="brass">Our Vision</Eyebrow>
             <p className="text-[15px] leading-relaxed text-ink/75">
-              To establish VAK Food &amp; Beverage Company as the standard-setting food and beverage
+              To establish VAK Food Company as the standard-setting food and beverage
               enterprise within the GCC region — globally celebrated for authentic vegetarian culinary
               innovation, premier multi-channel delivery, high-yield scalable growth, and unwavering
               consumer satisfaction.

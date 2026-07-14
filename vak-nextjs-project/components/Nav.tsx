@@ -37,7 +37,7 @@ export default function Nav() {
           <span>
             VAK
             <span className="hidden sm:inline font-body text-[10px] tracking-widest2 uppercase align-middle ml-2 opacity-70">
-              Food &amp; Beverage Co.
+              Food Co.
             </span>
           </span>
         </a>

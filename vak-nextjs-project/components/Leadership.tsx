@@ -28,7 +28,7 @@ export default function Leadership() {
             Guided by decades of Gulf hospitality experience.
           </h2>
           <p className="text-[15px] text-ink/65 leading-relaxed">
-            VAK Food &amp; Beverage Company is led by two operators who have built and scaled hospitality
+            VAK Food Company is led by two operators who have built and scaled hospitality
             businesses across the UAE, Oman, and India.
           </p>
         </div>

@@ -10,7 +10,7 @@ export default function Footer() {
               <span className="relative w-4 h-4 border-[2px] border-brass rounded-[3px]">
                 <span className="absolute inset-[3px] rounded-full bg-brass" />
               </span>
-              VAK Food &amp; Beverage Co.
+              VAK Food Co.
             </div>
             <p className="text-[13.5px] leading-relaxed text-paper/50">
               Premium hospitality and culinary infrastructure, headquartered in Sharjah, United Arab Emirates.
@@ -48,7 +48,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col sm:flex-row justify-between gap-3 pt-8 text-[12px] text-paper/40">
-          <span>© 2026 VAK Food &amp; Beverage Company. All cultural and commercial brand equities reserved.</span>
+          <span>© 2026 VAK Food Company. All cultural and commercial brand equities reserved.</span>
           <span>Al Nahda, Sharjah, United Arab Emirates</span>
         </div>
       </Container>

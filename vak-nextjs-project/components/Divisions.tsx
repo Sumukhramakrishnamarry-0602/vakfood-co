@@ -10,7 +10,7 @@ const brands: Array<React.ComponentProps<typeof BrandFeature>> = [
     format: '1,500–3,000 sq ft · Premium casual dine-in',
     locations: 'Malls, lifestyle centers, high-density residential corridors',
     description:
-      'The flagship full-service dining concept of VAK Food & Beverage Company — a sophisticated, family-centric room built for premium, multi-generational experiential dining across metropolitan hubs.',
+      'The flagship full-service dining concept of VAK Food Company — a sophisticated, family-centric room built for premium, multi-generational experiential dining across metropolitan hubs.',
     features: [
       '100% pure vegetarian integrity, zero cross-contamination',
       'Legacy recipes, stone-ground spice techniques',

@@ -19,7 +19,7 @@ const body = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'VAK Food & Beverage Company — Corporate Portfolio',
+  title: 'VAK Food Company — Corporate Portfolio',
   description:
     'A premium hospitality and culinary infrastructure group headquartered in Sharjah, UAE — Restaurant Operations, Cloud Kitchens, Premium Catering, and Café & QSR.',
 };
