@@ -9,9 +9,9 @@ const capabilities = [
 ];
 
 const kpis = [
-  ['—', 'Revenue growth'],
-  ['—', 'Monthly orders'],
-  ['—', 'Customer satisfaction'],
+  ['20,000+', 'Revenue growth'],
+  ['1000+', 'Monthly orders'],
+  ['4.5+', 'Customer satisfaction'],
   ['10', 'Cloud kitchens live'],
 ];
 
